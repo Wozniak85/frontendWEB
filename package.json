@@ -1,0 +1,16 @@
+{
+  "name": "frontendweb",
+  "version": "1.0.0",
+  "description": "Frontend for ProjektWEB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FW",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "pug": "^3.0.2"
+  }
+}
